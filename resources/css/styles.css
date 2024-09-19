@@ -1,0 +1,48 @@
+* {
+  font-family: 'roboto mono', Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color:cornflowerblue;
+  margin-bottom: 50px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(254, 236, 236);
+  margin: 0px;
+  letter-spacing: 0.3em;
+  background-color: rgb(25, 30, 62);
+  
+}
+
+h1 span {
+  letter-spacing: 0em;
+  color: rgb(0, 78, 146);
+}
+
+h2, h3 {
+  margin: 30px 0px 0px 40px;
+  color: midnightblue;
+  word-spacing: 0.2em;
+}
+
+table, th, td {
+  border: rgb(61, 61, 249) solid 1.5px;
+  margin: 10px 0px 0px 40px;
+  color: midnightblue;
+  text-align: left;
+   
+}
+
+th, td {
+  background-color: rgb(149, 149, 243);
+  padding: 1px 4px;
+}
+
+td {
+  background-color: rgb(171, 235, 237);
+  font-size: smaller;
+}
