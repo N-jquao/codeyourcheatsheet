@@ -30,7 +30,7 @@ h2, h3 {
 }
 
 table, th, td {
-  border: rgb(61, 61, 249) solid 1.5px;
+  border: rgb(61, 61, 249) single 1.5px;
   margin: 10px 0px 0px 40px;
   color: midnightblue;
   text-align: left;
